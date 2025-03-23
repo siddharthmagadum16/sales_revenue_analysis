@@ -1,7 +1,7 @@
 ## Sales and Revenue Analytics API
 
 
-### This project contains graphql APIs for sales & revenue analysis using NodeJS and Mongo aggregate queries
+#### This project contains GraphQL APIs for sales & revenue analysis using Node.js and mongo aggregate queries
 
 Graphql request link: `http://localhost:6000/graphql`
 
